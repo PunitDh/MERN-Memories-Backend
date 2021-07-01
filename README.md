@@ -1,6 +1,6 @@
 # MERN-Memories-Backend
 
-This is the backend API of the "Memories" app that I built using MERN Stack.
+This is the backend API of the single-page "Memories" app that I built using MERN Stack.
 
 It uses MongoDB Atlas along with Express and Node.
 
